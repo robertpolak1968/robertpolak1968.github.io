@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Robert Polak - AQA Computer software Ltd</title>
+		<title>{{ page.title }}</title>
 		 <!-- JQuery 3.X - https://jquery.com -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <!-- link to main stylesheet -->
@@ -21,11 +22,13 @@
     		</ul>
 		</nav>
 		<div class="container">
-    		<div class="blurb">
-        		<h1>Robert Polak - AQA Computer software Ltd</h1>
-				
-    		</div><!-- /.blurb -->
+    			<div class="blurb">
+        			<h1>Robert Polak - AQA Computer software Ltd</h1>
+			</div><!-- /.blurb -->
+			
+			{{ content }}
 		</div><!-- /.container -->
+		
 		<footer>
     		<ul>
         		<li><a href="mailto:robertpolak1968@gmail.com">email</a></li>
