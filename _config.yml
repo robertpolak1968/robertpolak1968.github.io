@@ -82,7 +82,7 @@ footer_links:
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 #https://help.github.com/en/articles/sitemaps-for-github-pages
-plugins:
-    - jekyll-sitemap
+#plugins:
+#    - jekyll-sitemap
 
-gem instal jekyll-sitemap
+#gem instal jekyll-sitemap
