@@ -81,8 +81,8 @@ footer_links:
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-#plugins:
-#    - jekyll-sitemap
-
-gems: 
+plugins:
     - jekyll-sitemap
+
+#gems: 
+#    - jekyll-sitemap
