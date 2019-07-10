@@ -86,3 +86,5 @@ permalink: /blog/:year/:month/:day/:title
 #    - jekyll-sitemap
 
 #gem instal jekyll-sitemap
+
+theme: jekyll-theme-cayman
