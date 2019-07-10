@@ -2,6 +2,8 @@ name: Robert Polak - AQA Computer Software Ltd
 # Name of website
 title: Robert Polak - AQA Computer Software Ltd
 
+theme: jekyll-theme-cayman
+
 # Short description of your site
 description: A virtual proof that I'm awesome
 
@@ -87,4 +89,3 @@ permalink: /blog/:year/:month/:day/:title
 
 #gem instal jekyll-sitemap
 
-theme: jekyll-theme-cayman
