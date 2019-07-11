@@ -32,8 +32,10 @@
             </li>
             <li>
                 USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia
-                <li><a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a></li>
-                <li><a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a></li>
+                <ul>
+                    <li><a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a></li>
+                    <li><a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a></li>
+                </ul>
             </li>
        </ul>
 
