@@ -49,15 +49,13 @@ CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site
  <p>
     obert Polak - AQA Computer Software Ltd Github Pages Links:
  </p>
- 
- <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/about">About</a></li>
-    <li><a href="/cv">CV</a></li>
-    <li><a href="/contact">Contact</a></li>
-    <li><a href="/blog">Blog</a></li>
+  <ul>
+    <li><a href="https://robertpolak1968.github.io//">Home</a></li>
+    <li><a href="https://robertpolak1968.github.io//about">About</a></li>
+    <li><a href="https://robertpolak1968.github.io//cv">CV</a></li>
+    <li><a href="https://robertpolak1968.github.io//contact">Contact</a></li>
+    <li><a href="https://robertpolak1968.github.io//blog">Blog</a></li>
 </ul>
-
 
 <hr>
 
