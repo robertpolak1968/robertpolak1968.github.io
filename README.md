@@ -24,18 +24,18 @@
      </p>
         <ul>
             <li>
-                DeCare Dental Ireland  
+                DeCare Dental Ireland
                 
-                <a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a>  
+                <a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a>
                 
                 <a href="https://www.decaredental.ie/join" target="_blank">decaredental.ie/join</a>
             </li>
             <li>
-                USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia  
+                USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia
                 
-                <a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a>  
+                <a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a>
                 
-                <a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a>  
+                <a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a>
             </li>
        </ul>
 
