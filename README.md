@@ -60,10 +60,10 @@ CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site
 <hr>
 
 © 2018 AQA Computer Software Ltd  
-`Tel`. +353 872223527  
-`E-mail:` robertpolak1968@gmail.com  
+`Tel:`. +353 872223527  
+`eMail:` robertpolak1968@gmail.com  
 `Skype:` robertpolakirl  
 `Address:` No. 1 Cluain Reidh, Ballymakeera, Macroom, P12 AC80, Co. Cork  
-`www:` <a href="https://www.linkedin.com/in/robertpolak1968/" target="_blank">Robert Polak LinkedIn</a>  
-`www:` <a href="https://www.linkedin.com/company/aqacomputersoftwareltd" target="_blank">AQA Ltd LinkedIn</a>  
+`Website:` <a href="https://www.linkedin.com/in/robertpolak1968/" target="_blank">Robert Polak LinkedIn</a>  
+`Website:` <a href="https://www.linkedin.com/company/aqacomputersoftwareltd" target="_blank">AQA Ltd LinkedIn</a>  
 
