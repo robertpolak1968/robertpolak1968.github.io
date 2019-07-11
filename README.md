@@ -10,8 +10,8 @@
             <li> Import statistical data files PX format to data base. Convert statistic data to Json-STAT via API REST service via Web site front end. PX-STAT Project.</li>
         </ul>
  
-* CSO LinkedIn <a href="https://www.linkedin.com/company/cso-central-statistics-office-/" target="_blank">CSO LinkedIn</a>  
-* CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site</a>
+CSO LinkedIn <a href="https://www.linkedin.com/company/cso-central-statistics-office-/" target="_blank">CSO LinkedIn</a>  
+CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site</a>
  
 
     <p>
