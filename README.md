@@ -45,6 +45,19 @@ CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site
     <li><a href="https://robertpolak1968.github.io//cvdoc/PolakRobert-CV -Modern.doc">Robert Polak - CV Modern download</a></li>
     <li><a href="https://www.linkedin.com/in/robertpolak1968/" target="_blank">Robert Polak - LinkedIn Profile</a></li>
  </ul>
+ 
+ <p>
+    obert Polak - AQA Computer Software Ltd Github Pages Links:
+ </p>
+ 
+ <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/cv">CV</a></li>
+    <li><a href="/contact">Contact</a></li>
+    <li><a href="/blog">Blog</a></li>
+</ul>
+
 
 <hr>
 
