@@ -1,4 +1,4 @@
-<h3>Robert Polak - AQA Computer Software Ltd Github Pages - About </h3>
+<h3>Robert Polak - AQA Computer Software Ltd Github Pages</h3>
     <p>
         Currently I am working at CSO (Central Statistics Office) Cork as Software Development Engineer (Contractor).
     </p>
@@ -24,14 +24,14 @@
      </p>
         <ul>
             <li>
-                DeCare Dental Ireland
-                <a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a>
+                DeCare Dental Ireland  
+                <a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a>  
                 <a href="https://www.decaredental.ie/join" target="_blank">decaredental.ie/join</a>
             </li>
             <li>
-                USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia
-                <a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a>
-                <a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a>
+                USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia  
+                <a href="https://www.deltadentalwa.com/" target="_blank">deltadentalwa.com/,</a>  
+                <a href="https://www.bcbsga.com/shop" target="_blank">bcbsga.com/shopjoin</a>  
             </li>
        </ul>
 
