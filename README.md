@@ -26,11 +26,9 @@
             <li>
                 DeCare Dental Ireland
                 <ul>
-            
-                <li><a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a></li>
-                
-                <li><a href="https://www.decaredental.ie/join" target="_blank">decaredental.ie/join</a></li>
-                  </ul>
+                    <li><a href="https://www.decaredental.ie/"  target="_blank">decaredental.ie</a></li>
+                    <li><a href="https://www.decaredental.ie/join" target="_blank">decaredental.ie/join</a></li>
+                </ul>
             </li>
             <li>
                 USA - Delta Dental Washington, Dental Shop Blue Cross and Blue Shield of Georgia
