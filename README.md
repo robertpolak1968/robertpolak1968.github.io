@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 <h3>Robert Polak - AQA Computer Software Ltd Github Pages - About </h3>
     <p>
         Currently I am working at CSO (Central Statistics Office) Cork as Software Development Engineer (Contractor).
@@ -41,8 +39,8 @@
     Mode Information's:
  </p>
  <ul>
-    <li><a href="/cvdoc/PolakRobert-CV-Short.doc">Robert Polak - CV Short download</a></li>
-    <li><a href="/cvdoc/PolakRobert-CV -Modern.doc">Robert Polak - CV Modern download</a></li>
+    <li><a href="https://robertpolak1968.github.io//cvdoc/PolakRobert-CV-Short.doc">Robert Polak - CV Short download</a></li>
+    <li><a href="https://robertpolak1968.github.io//cvdoc/PolakRobert-CV -Modern.doc">Robert Polak - CV Modern download</a></li>
     <li><a href="https://www.linkedin.com/in/robertpolak1968/" target="_blank">Robert Polak - LinkedIn Profile</a></li>
  </ul>
 
