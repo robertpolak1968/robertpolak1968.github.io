@@ -11,11 +11,10 @@
             fluent validation, JSON-RPC 2.0
             <li> Import statistical data files PX format to data base. Convert statistic data to Json-STAT via API REST service via Web site front end. PX-STAT Project.</li>
         </ul>
-    
-    <ul>
-        <li>CSO LinkedIn <a href="https://www.linkedin.com/company/cso-central-statistics-office-/" target="_blank">CSO LinkedIn</a></li>
-        <li>CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site</a></li>
-    </ul>
+ 
+* CSO LinkedIn <a href="https://www.linkedin.com/company/cso-central-statistics-office-/" target="_blank">CSO LinkedIn</a>
+*CSO Web Site <a href="https://cso.ie/en/index.html" target="_blank">CSO Web Site</a>
+ 
 
     <p>
         I have 10 years’ experience at 2-4.7 Web Forms and MVC3-5 C# Visual Studio 2010, 2013 developing WEB enterprise applications with HTML5, CSS3, JavaScript, jQuery, AngularJS, Knockout, Responsive Design, Bootstrap, jQuery UI, jQuery Theme, AJAX,
